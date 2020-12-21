@@ -1,0 +1,30 @@
+Jose
+Paute
+*************
+Pizza jamon con queso
+Cantidad: 2
+*************
+Pizza jamon con queso
+Cantidad: 1
+*************
+===================================
+Jorge
+Paute
+*************
+Pizza jamon con queso
+Cantidad: 2
+*************
+===================================
+Andrea
+Paute
+*************
+Pizza jamon con queso
+Cantidad: 3
+*************
+Pizza jamon con queso
+Cantidad: 1
+*************
+Pizza jamon con queso
+Cantidad: 1
+*************
+===================================

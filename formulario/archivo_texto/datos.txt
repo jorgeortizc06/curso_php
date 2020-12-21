@@ -1,0 +1,18 @@
+Jose
+Soy hermoso
+--------------------------------------------------------
+Andrea
+Tiene una linda nacha
+--------------------------------------------------------
+Jorge
+Demasiado guapo
+--------------------------------------------------------
+PHP: Archivos de Texto
+En primer lugar creamos o abrimos el archivo de texto "datos.txt". El segundo parámetro de la función fopen indica la forma de apertura de archivo "a" (lo crea o si ya existe el archivo lo abre para añadir datos al final), "w" (crea el archivo de texto, si existe borra su contenido) y la última forma de apertura del archivo es "r" (abre el archivo para su lectura)
+
+Como en este problema nos interesa que el archivo vaya creciendo con los datos que aportan los visitantes al sitio lo abrimos para añadir, parámetro "a".
+
+La función fopen retorna una referencia al archivo y la almacenamos en una variable llamada $ar.
+
+Si el archivo no se puede abrir, se ejecuta la instrucción que se encuentra luego del operador "or" en nuestro caso llamamos a la función die que finaliza la ejecución del programa PHP mostrando como mensaje el texto que le pasamos a dicha función (por ejemplo si el disco duro del servidor está lleno no se podrá crear el archivo de texto)
+--------------------------------------------------------
